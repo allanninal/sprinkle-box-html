@@ -12,7 +12,7 @@
 | `images/gallery/dozen.jpg` | Mixed Dozen | [Courtney Cook](https://unsplash.com/@courtneymcook?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash](https://unsplash.com/photos/CIKN2MfSp1Q?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash License](https://unsplash.com/license) | Resized |
 | `images/gallery/filling.jpg` | Filling station | [tommao wang](https://unsplash.com/@tommaomaoer?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash](https://unsplash.com/photos/a6XeK8KVXto?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash License](https://unsplash.com/license) | Resized |
 | `images/gallery/matcha.jpg` | Matcha Coconut | [yuk](https://unsplash.com/@yukprince?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash](https://unsplash.com/photos/YkISwXx57X0?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash License](https://unsplash.com/license) | Resized |
-| `images/gallery/exterior.jpg` | 742 NW Donut Row | [Harrison Lin](https://unsplash.com/@htlin?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash](https://unsplash.com/photos/YsSO56ZMkPk?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash License](https://unsplash.com/license) | Resized |
+| `images/gallery/exterior.jpg` | Donuts and a cup of tea | [Svetlana Sidorenko](https://unsplash.com/@svetlanadesi?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash](https://unsplash.com/photos/person-holding-black-donuts-sd4E0SLVgmw?utm_source=allanninal_dev&utm_medium=referral) | [Unsplash License](https://unsplash.com/license) | Resized |
 
 These are the same photographs as the Sprinkle Box WordPress theme.
 
